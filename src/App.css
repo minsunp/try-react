@@ -1,0 +1,30 @@
+.App {
+  background-color: #0072bc;
+  height: 900px;
+}
+.toggleChat {
+  color: #0072bc;
+}
+.lockBottom {
+  position: 'absolute';
+  bottom: 0;
+  right: 0;
+}
+.chatBox {
+  background-color: #FFFFFF;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #BC9A6A;
+  width: 250px;
+  height: 400px;
+}
+.history {
+  height: 330px;
+}
+.inputFooter {
+  flex-direction: 'row';
+}
+.input {
+  margin-left: 10px;
+  margin-right: 10px;
+}
