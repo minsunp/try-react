@@ -1,0 +1,690 @@
+{
+  "qna": [
+    {
+      "a": "Find out more about our global impact <a href=\"https://www.unrefugees.org/what-we-do/\">here</a>.",
+      "qid": "un-11",
+      "type": "qna",
+      "q": [
+        "What is USA for UNHCR’s impact?"
+      ]
+    },
+    {
+      "a": "For the latest news on refugees, please visit our news page at https://www.unrefugees.org/news/.",
+      "alt": {
+        "markdown": "For the latest news on refugees, please visit our news page <a href=\"https://www.unrefugees.org/news/\">here.</a>"
+      },
+      "qid": "un-16",
+      "type": "qna",
+      "q": [
+        "What is the latest news on refugees?"
+      ]
+    },
+    {
+      "a": "UNHCR has been on the ground since the beginning of the crisis coordinating a massive refugee response, and with your help, UNHCR can continue providing lifesaving services to those in need. Know more about the Syrian refugee crisis at https://www.unrefugees.org/emergencies/syria/.",
+      "alt": {
+        "markdown": "UNHCR has been on the ground since the beginning of the crisis coordinating a massive refugee response, and with your help, UNHCR can continue providing lifesaving services to those in need. Know more about the Syrian refugee crisis <a href=\"https://www.unrefugees.org/emergencies/syria/\">here</a>."
+      },
+      "qid": "un-18",
+      "type": "qna",
+      "q": [
+        "What is UNHCR doing in Syria?"
+      ]
+    },
+    {
+      "a": "Please contact our Donor Care team at info@usaforunhcr.org, or 1-855-808-6427, where we would be happy to cancel your monthly donations.",
+      "qid": "un-49",
+      "type": "qna",
+      "q": [
+        "How can I cancel my monthly donation?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "A refugee is a person forced to flee their country because of violence or persecution. You can learn more about refugees at our page www.unrefugees.org/refugee-facts/",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "A refugee is a person forced to flee their country because of violence or persecution. You can learn more about refugees in our <a href=\"https://www.unrefugees.org/refugee-facts/\">Refugee Facts page</a>.",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "un-12",
+      "type": "qna",
+      "q": [
+        "What is a refugee?"
+      ]
+    },
+    {
+      "a": "Thank you for your interest in housing or adopting refugees. We have received a number of inquiries like yours recently, and it is heartening to see so many people willing to open their homes and their lives to these brave men, women, and children fleeing war, persecution and violence around the world. The U.S. government manages resettlement to the United States, working with state and local partners around the country.  UNHCR, however, does not decide who gets accepted for resettlement to the U.S., and doesn’t work directly with resettled refugees in the U.S. If you want to help refugees that are already in the U.S., the best place to start is with a refugee resettlement agency in your city or state. You can find a list of agencies helping refugees here: http://www.acf.hhs.gov/programs/orr/state-programs-annual-overview",
+      "alt": {
+        "markdown": "Thank you for your interest in housing or adopting refugees. We have received a number of inquiries like yours recently, and it is heartening to see so many people willing to open their homes and their lives to these brave men, women, and children fleeing war, persecution and violence around the world. The U.S. government manages resettlement to the United States, working with state and local partners around the country.  UNHCR, however, does not decide who gets accepted for resettlement to the U.S., and doesn’t work directly with resettled refugees in the U.S. If you want to help refugees that are already in the U.S., the best place to start is with a refugee resettlement agency in your city or state. You can find a list of agencies helping refugees <a href=\"http://www.acf.hhs.gov/programs/orr/state-programs-annual-overview\">here</a>"
+      },
+      "qid": "un-53",
+      "type": "qna",
+      "q": [
+        "Can I house or adopt a refugee?"
+      ]
+    },
+    {
+      "a": "There are 68.5 million forcibly displaced people worldwide: 25.4 million are refugees who were forced to cross national borders in search of safety for themselves and their families. Sadly, 52 percent of refugees are children. Learn more about refugees in our https://www.unrefugees.org/refugee-facts/ page.",
+      "alt": {
+        "markdown": "There are 68.5 million forcibly displaced people worldwide: 25.4 million are refugees who were forced to cross national borders in search of safety for themselves and their families. Sadly, 52 percent of refugees are children. Learn more about refugees in our <a href=\"https://www.unrefugees.org/refugee-facts/\">Refugee Facts</a> page."
+      },
+      "qid": "un-13",
+      "type": "qna",
+      "q": [
+        "How many refugees are there?"
+      ]
+    },
+    {
+      "a": "Since 2011 more than 5.6 million Syrians have been forced to flee across the border, and another 6.6 million have been forced from their homes but remain trapped inside the country. Know more about the Syrian refugee crisis at https://www.unrefugees.org/emergencies/syria/.",
+      "alt": {
+        "markdown": "Since 2011 more than 5.6 million Syrians have been forced to flee across the border, and another 6.6 million have been forced from their homes but remain trapped inside the country. Know more about the Syrian refugee crisis at <a href=\"https://www.unrefugees.org/emergencies/syria/\">here</a>."
+      },
+      "qid": "un-17",
+      "type": "qna",
+      "q": [
+        "How many people have been affected in the Syrian refugee crisis?"
+      ]
+    },
+    {
+      "a": "Established by concerned American citizens, USA for UNHCR is a 501(c) (3) non-profit organization, headquartered in Washington, D.C. that helps and protects refugees and people displaced by violence, conflict and persecution. Supporting UNHCR – the UN Refugee Agency – and its partners, USA for UNHCR provides lifesaving essentials including shelter, water, food, safety and protection.",
+      "qid": "un-2",
+      "type": "qna",
+      "q": [
+        "What is USA for UNHCR?"
+      ]
+    },
+    {
+      "a": "We do not have the expertise or facilities to provide legal advice. For specific information regarding protection within America please contact the UNHCR regional office or call 202-296-5191. We sincerely apologize that we are unable to assist you with your inquiry, and for any inconvenience this has caused.",
+      "qid": "un-57",
+      "type": "qna",
+      "q": [
+        "How can I get refugee status?"
+      ]
+    },
+    {
+      "a": "USA for UNHCR was created in 1989 to inform the American people of the work of the United Nations High Commissioner for Refugees (UNHCR) and the needs and circumstances of refugees around the world. USA for UNHCR is authorized by UNHCR to raise funds and awareness, and to advocate for refugees in the U.S. USA for UNHCR is not authorized to work with refugees and asylum seekers regarding any status, protection or asylum requests.",
+      "qid": "un-3",
+      "type": "qna",
+      "q": [
+        "What is the difference between UNHCR and USA for UNHCR?"
+      ]
+    },
+    {
+      "a": "We do not have the expertise or facilities to provide legal advice. For specific information regarding protection within America please contact the UNHCR regional office or call 202-296-5191. We sincerely apologize that we are unable to assist you with your inquiry, and for any inconvenience this has caused.",
+      "qid": "un-54",
+      "type": "qna",
+      "q": [
+        "How do I seek resettlement?"
+      ]
+    },
+    {
+      "a": "We do not have the expertise or facilities to provide legal advice. For specific information regarding protection within America please contact the UNHCR regional office or call 202-296-5191. We sincerely apologize that we are unable to assist you with your inquiry, and for any inconvenience this has caused.",
+      "qid": "un-55",
+      "type": "qna",
+      "q": [
+        "How do I seek protection?"
+      ]
+    },
+    {
+      "a": "UNHCR (United Nations High Commissioner for Refugees), or the UN Refugee Agency, was established in 1950 to provide and coordinate international relief for refugees and displaced people. UNHCR offers them protection and assistance at every stage of their ordeal.",
+      "qid": "un-1",
+      "type": "qna",
+      "q": [
+        "What is UNHCR?"
+      ]
+    },
+    {
+      "a": "Please contact our donor services team at 1-855-808-6427 or emailing info@usaforunhcr.org and we\nwould be happy to update your preferences.",
+      "qid": "un-38",
+      "type": "qna",
+      "q": [
+        "How can I update my contact information?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "3.4 million Venezuelans have fled the country since 2014 because of political strife, human rights abuses\nand lack of economic opportunity. Know more about the Venezuelan refugee crisis at https://www.unrefugees.org/emergencies/venezuela/ .",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "3.4 million Venezuelans have fled the country since 2014 because of political strife, human rights abuses\nand lack of economic opportunity. Know more about the Venezuelan refugee crisis <a href=\"https://www.unrefugees.org/emergencies/venezuela/\">here</a> .",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "un-20",
+      "type": "qna",
+      "selected": false,
+      "q": [
+        "How many people have been affected in the Venezuelan refugee crisis?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "For more information about our financial accountability and transparency, please visit our finance page at https://www.unrefugees.org/about-us/finances/",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "For more information about our financial accountability and transparency, please visit our finance page <a href=\"https://www.unrefugees.org/about-us/finances/\">here</a>.",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "un-9",
+      "type": "qna",
+      "q": [
+        "Where can I see USA for UNHCR’s financials?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Yes, this is a test",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "test",
+      "type": "qna",
+      "q": [
+        "is this a test?",
+        "is this a question?",
+        ""
+      ]
+    },
+    {
+      "a": "We sincerely appreciate your kind concern for asylum seekers fleeing Central America. Gang warfare and violence have transformed parts of Central America into some of the most dangerous places on earth. Thousands of parents have fled with their families and, in many cases, children have made the perilous journey alone. Learn more by visiting our emergencies page at https://www.unrefugees.org/emergencies/central-america/.",
+      "alt": {
+        "markdown": "We sincerely appreciate your kind concern for asylum seekers fleeing Central America. Gang warfare and violence have transformed parts of Central America into some of the most dangerous places on earth. Thousands of parents have fled with their families and, in many cases, children have made the perilous journey alone. Learn more by visiting our emergencies page <a href=\" https://www.unrefugees.org/emergencies/central-america/\">here</a>."
+      },
+      "qid": "un-28",
+      "type": "qna",
+      "q": [
+        "What is happening in the US southern border?"
+      ]
+    },
+    {
+      "a": "You can support Venezuelans through USA for UNHCR. We sincerely appreciate your kind concern for\nthe asylum seekers forced to flee Venezuela. Please call us at 202-792-1164 and let us know you would\nlike to give a gift to Venezuelans forced to flee their homes. You can also give a gift by check. If you\nchoose to send a check, please send to our DC address at 1310 L St NW #450, Washington, DC 20005\n“Venezuelans” in the memo line.",
+      "qid": "un-22",
+      "type": "qna",
+      "q": [
+        "How can I donate to Venezuelans?"
+      ]
+    },
+    {
+      "a": "We do not have the expertise or facilities to provide legal advice. For specific information regarding protection within America please contact the UNHCR regional office or call 202-296-5191. We sincerely apologize that we are unable to assist you with your inquiry, and for any inconvenience this has caused.",
+      "qid": "un-58",
+      "type": "qna",
+      "q": [
+        "How can I request asylum?"
+      ]
+    },
+    {
+      "a": "USA for UNHCR, with our generous donors and partners, support UNHCR's mission to help and protect the 68.5 million people worldwide forced to flee violence and persecution. Learn more on our Refugee Facts page here https://www.unrefugees.org/refugee-facts/",
+      "qid": "un-4",
+      "type": "qna",
+      "q": [
+        "Who does USA for UNHCR help?"
+      ]
+    },
+    {
+      "a": "Only 3% of UNHCR’s budget comes from the UN – the remaining 97% comes from voluntary contributions from governments, corporations, and individual donors. UNHCR relies on donations to ensure it can respond whenever and wherever a crisis strikes.",
+      "qid": "un-5",
+      "type": "qna",
+      "q": [
+        "Where does UNHCR get its funding?"
+      ]
+    },
+    {
+      "a": "Given the recent cut of all US funding to UNRWA, USA for UNHCR has set up a separate fund to accept donations from concerned Americans. The donations will be directed to UNRWA and their work with Palestine refugees.",
+      "qid": "un-26",
+      "type": "qna",
+      "q": [
+        "Does USA for UNHCR provide support to UNRWA?"
+      ]
+    },
+    {
+      "a": "The best team is team 11",
+      "qid": "team",
+      "type": "qna",
+      "q": [
+        "What is the best team?"
+      ]
+    },
+    {
+      "a": "We sincerely appreciate your kind concern for asylum seekers fleeing Central America. UNHCR is on the ground responding to this growing crisis in countries like Honduras, Guatemala and El Salvador. We continue to call on governments to work together and address the root causes of flight from Central America and at the same time ensure safe haven for families fleeing this life-threatening violence and persecution. Learn more by visiting our emergencies page https://www.unrefugees.org/emergencies/central-america/.",
+      "alt": {
+        "markdown": "We sincerely appreciate your kind concern for asylum seekers fleeing Central America. UNHCR is on the ground responding to this growing crisis in countries like Honduras, Guatemala and El Salvador. We continue to call on governments to work together and address the root causes of flight from Central America and at the same time ensure safe haven for families fleeing this life-threatening violence and persecution. Learn more by visiting our emergencies page <a href=\"https://www.unrefugees.org/emergencies/central-america/\">here</a>."
+      },
+      "qid": "un-29",
+      "type": "qna",
+      "q": [
+        "What is UNHCR doing in the US Southern border?"
+      ]
+    },
+    {
+      "a": "Please contact our Donor Care team at info@usaforunhcr.org, or 1-855-808-6427, where we would be happy to adjust your monthly donations.",
+      "qid": "un-50",
+      "type": "qna",
+      "q": [
+        "How can I upgrade or downgrade my monthly donation?"
+      ]
+    },
+    {
+      "a": "Please contact our Donor Care team at info@usaforunhcr.org or 1-855-808-6427, and we would be happy to remove you from our mailing list. Please note, because of the preparation time for mailings it is possible material has already been prepared to send in the coming weeks. However, mail should stop after this period.",
+      "qid": "un-41",
+      "type": "qna",
+      "q": [
+        "How do I remove myself from USA for UNHCR’s mailing list?"
+      ]
+    },
+    {
+      "a": "Thank you for your interest in volunteering with refugees. We sincerely appreciate your kind support. All volunteer efforts with the UN Refugee Agency are coordinated through the United Nations Volunteer Program. Their website is located at www.unv.org.\n\nIf you would like to learn about additional opportunities for assisting refugees forced to flee war, persecution and violence please visit our “How To Help” webpage at https://www.unrefugees.org/how-to-help/. There are many ways you can help, including holding a community event or fundraising for USA for UNHCR. Please click here to complete the form at https://docs.google.com/forms/d/e/1FAIpQLSewHXJ-FG-_qhXHnK-qquVcYFh576TCZD9OfBDTo88g9rWxOw/viewform?c=0&w=1 and learn more about fundraising events, and to download our fundraising toolkit.",
+      "alt": {
+        "markdown": "Thank you for your interest in volunteering with refugees. We sincerely appreciate your kind support. All volunteer efforts with the UN Refugee Agency are coordinated through the United Nations Volunteer Program. Their website is located at <a href=\"www.unv.org\">www.unv.org</a>.\n\nIf you would like to learn about additional opportunities for assisting refugees forced to flee war, persecution and violence please visit our <a href=\"https://www.unrefugees.org/how-to-help/\">“How To Help”</a> webpage. There are many ways you can help, including holding a community event or fundraising for USA for UNHCR. Please click <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSewHXJ-FG-_qhXHnK-qquVcYFh576TCZD9OfBDTo88g9rWxOw/viewform?c=0&w=1\">here</a> to complete the form and learn more about fundraising events, and to download our fundraising toolkit."
+      },
+      "qid": "un-43",
+      "type": "qna",
+      "q": [
+        "How can I volunteer?"
+      ]
+    },
+    {
+      "a": "Please visit our page https://www.unrefugees.org/how-to-help/planned-giving/ for more information on other ways to give.",
+      "alt": {
+        "markdown": "Please visit our page <a href=\"https://www.unrefugees.org/how-to-help/planned-giving/\">planned giving page</a> for more information on other ways to give."
+      },
+      "qid": "un-36",
+      "type": "qna",
+      "q": [
+        "How can I donate stock, setup a charitable trust or make a planned gift?"
+      ]
+    },
+    {
+      "a": "You're welcome! Is there anything else you would like help with today?",
+      "qid": "intro-3",
+      "type": "qna",
+      "q": [
+        "Thanks",
+        "Thank you",
+        "Nice",
+        "Great",
+        "Much appreciated"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "UNHCR, the UN Refugee Agency, has stepped up relief efforts throughout the region, and with your\nsupport they can continue their vital work for Venezuelans. Working with the Colombian government,\nUNHCR has supported the registration of 440,000 Venezuelans. UNHCR-supported facilities in Colombia\nare helping serve thousands of meals each day and providing psychiatric care to people in need. In\nBrazil, UNHCR has supported the construction of more than a dozen temporary shelters, providing site\nplanning management and humanitarian aid items. In the face of uncertainty these brave men, women,\nand children travel long and often terrifying journeys in search of safety. When they finally reach it, your\ngifts help provide lifesaving services and the tools to build a better, safer future for themselves and their\nfamilies. Know more about the Venezuelan refugee crisis at https://www.unrefugees.org/emergencies/venezuela/ .",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "UNHCR, the UN Refugee Agency, has stepped up relief efforts throughout the region, and with your\nsupport they can continue their vital work for Venezuelans. Working with the Colombian government,\nUNHCR has supported the registration of 440,000 Venezuelans. UNHCR-supported facilities in Colombia\nare helping serve thousands of meals each day and providing psychiatric care to people in need. In\nBrazil, UNHCR has supported the construction of more than a dozen temporary shelters, providing site\nplanning management and humanitarian aid items. In the face of uncertainty these brave men, women,\nand children travel long and often terrifying journeys in search of safety. When they finally reach it, your\ngifts help provide lifesaving services and the tools to build a better, safer future for themselves and their\nfamilies. Know more about the Venezuelan refugee crisis <a href=\"https://www.unrefugees.org/emergencies/venezuela/\">here</a> .",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "un-21",
+      "type": "qna",
+      "q": [
+        "What is UNHCR doing in Venezuela?"
+      ]
+    },
+    {
+      "a": "Unfortunately, the UN Refugee Agency is unable to accept material donations. When providing lifesaving supplies to refugees, the UN Refugee Agency has in place procurement mechanisms that allow us to purchase exactly what refugees need locally. This ensures refugees are receiving the type of assistance they need most at the moment they need it and, as is the case with many emergencies, those needs can change quickly depending on weather, environment and scale of the crisis. We sincerely appreciate your desire to support refugees. Please visit our “How To Help” web page to learn about other ways you can assist refugees. (https://www.unrefugees.org/how-to-help/)",
+      "alt": {
+        "markdown": "Unfortunately, the UN Refugee Agency is unable to accept material donations. When providing lifesaving supplies to refugees, the UN Refugee Agency has in place procurement mechanisms that allow us to purchase exactly what refugees need locally. This ensures refugees are receiving the type of assistance they need most at the moment they need it and, as is the case with many emergencies, those needs can change quickly depending on weather, environment and scale of the crisis. We sincerely appreciate your desire to support refugees. Please visit our “How To Help” <a href=\"https://www.unrefugees.org/how-to-help/\">web page</a> to learn about other ways you can assist refugees."
+      },
+      "qid": "un-52",
+      "type": "qna",
+      "q": [
+        "Can I donate material goods?"
+      ]
+    },
+    {
+      "a": "Three million men, women, and children have been forced to flee their homes because of the conflict in\nYemen. More than 15 million are on the brink of starvation, and sadly, 400,000 children are among\nthose suffering from the most severe form of malnutrition. The United Nations calls Yemen \"the world's\nworst humanitarian crisis,\" and approximately 75 percent of the population requires humanitarian\nassistance. As this crisis continues, your support will help UNHCR address the critical needs of these\nvulnerable families struggling to survive. Know more about the Yemen refugee crisis at https://www.unrefugees.org/emergencies/yemen/ .",
+      "alt": {
+        "markdown": "Three million men, women, and children have been forced to flee their homes because of the conflict in\nYemen. More than 15 million are on the brink of starvation, and sadly, 400,000 children are among\nthose suffering from the most severe form of malnutrition. The United Nations calls Yemen \"the world's\nworst humanitarian crisis,\" and approximately 75 percent of the population requires humanitarian\nassistance. As this crisis continues, your support will help UNHCR address the critical needs of these\nvulnerable families struggling to survive. Know more about the Yemen refugee crisis <a href=\"https://www.unrefugees.org/emergencies/yemen/\">here</a> ."
+      },
+      "qid": "un-24",
+      "type": "qna",
+      "q": [
+        "How many people have been in affected in the Yemen crisis?"
+      ]
+    },
+    {
+      "a": "We make every effort to ensure that the generous donations given to USA for UNHCR are collected and\nput to use quickly, providing urgent support where it is needed most. As such, we typically do not honor\nrefund requests but in the most extraordinary of circumstances, and within 60 days of the gift. To\nproceed with the request, please contact our Donor Care team at 1-855-808-6427.",
+      "qid": "un-32",
+      "type": "qna",
+      "q": [
+        "Can I get a donation refund?"
+      ]
+    },
+    {
+      "a": "You can support UNRWA through USA for UNHCR. We sincerely appreciate your kind concern for the Palestinian refugees. Please call us at 202-792-1164 and let us know you would like to give a gift to Venezuelans forced to flee their homes. You can also give a gift by check. If you choose to send a check, please send to the address 1310 L St NW #450, Washington, DC 20005 with “UNRWA” in the memo line.",
+      "qid": "un-27",
+      "type": "qna",
+      "q": [
+        "How can I donate to UNRWA?"
+      ]
+    },
+    {
+      "a": "You can support Central America through USA for UNHCR. We sincerely appreciate your kind concern for\nthe asylum seekers fleeing Central America. Please call us at 202-792-1164 and let us know you would\nlike to give a gift to those fleeing Central America. You can also give a gift by check. If you choose to send\na check, please send to the address 1310 L St NW #450, Washington, DC 20005 with “Central America”\nin the memo line.",
+      "qid": "un-30",
+      "type": "qna",
+      "q": [
+        "How can I donate to Central America?"
+      ]
+    },
+    {
+      "a": "Thank you for your interest in donating to Syrian refugees. Please call us at 202-792-1164 and let us know you would like to give a gift to Syrian refugees. You can also give a gift by check. If you choose to send a check, please send to our DC address at 1310 L St NW #450, Washington, DC 20005 with ‘Syrian Refugees’ in the memo line.",
+      "qid": "un-19",
+      "type": "qna",
+      "q": [
+        "How can I donate to the Syrian refugee crisis?"
+      ]
+    },
+    {
+      "a": "USA for UNHCR does not directly sell or exchange mailing information with other organizations. Additionally, and on your request, we can ensure that your name is never shared with any third party.",
+      "qid": "un-42",
+      "type": "qna",
+      "q": [
+        "What is USA for UNHCR’s mail policy?"
+      ]
+    },
+    {
+      "a": "No, Goodwill Ambassadors are not paid. These are recognizable individuals who volunteer to be public faces of UNHCR. They care deeply about our mission and sharing our work with the world.",
+      "qid": "un-8",
+      "type": "qna",
+      "q": [
+        "Are Goodwill Ambassadors paid?"
+      ]
+    },
+    {
+      "a": "We have a 3 out of 4 star rating on Charity Navigator.",
+      "qid": "un-10",
+      "type": "qna",
+      "q": [
+        "What is USA for UNHCR’s Charity Navigator Score?"
+      ]
+    },
+    {
+      "a": "Thank you for your interest in donating! Please contact our Donor Care team at 1-855-808-6427 and we will check if we can restrict your gift.",
+      "qid": "un-47",
+      "type": "qna",
+      "q": [
+        "How can I donate to a specific refugee crisis?"
+      ]
+    },
+    {
+      "a": "Thanks! Would you like to make a donation today?",
+      "qid": "intro-4",
+      "type": "qna",
+      "q": [
+        "No, I'm done"
+      ]
+    },
+    {
+      "a": "We welcome contributions from fundraising events. Check out our community fundraising page or setup\na Classy page to raise funds online. Please note that we are unable to accept material donations such as\nfood, clothing and other goods at this time.",
+      "qid": "un-37",
+      "type": "qna",
+      "q": [
+        "How can I raise money in my community or online for USA for UNHCR?"
+      ]
+    },
+    {
+      "a": "USA for UNHCR is committed to using your money as efficiently and effectively as possible to help\nrefugees in need. When USA for UNHCR is fundraising for a specific emergency or crisis, 100% of\n6\ndesignated restricted donations will apply to that particular emergency or crisis. Should USA for UNHCR\nraise funds in excess of what is required to respond to that particular crisis, the remaining funds are\nredirected to where the need is greatest.\nYou can find out more about what your donations have achieved at https://www.unrefugees.org/what-we-do/.\nIf you believe your gift was made in error, or have additional questions, please contact our Donor Care\nteam at 1-855-808-6427.",
+      "alt": {
+        "markdown": "USA for UNHCR is committed to using your money as efficiently and effectively as possible to help\nrefugees in need. When USA for UNHCR is fundraising for a specific emergency or crisis, 100% of\n6\ndesignated restricted donations will apply to that particular emergency or crisis. Should USA for UNHCR\nraise funds in excess of what is required to respond to that particular crisis, the remaining funds are\nredirected to where the need is greatest.\nYou can find out more about what your donations have achieved <a href=\"https://www.unrefugees.org/what-we-do/\">here</a> .\nIf you believe your gift was made in error, or have additional questions, please contact our Donor Care\nteam at 1-855-808-6427."
+      },
+      "qid": "un-31",
+      "type": "qna",
+      "q": [
+        "How is my donation used?"
+      ]
+    },
+    {
+      "a": "In 1949, the UN General Assembly established UNRWA, United Nations Relief and Works Agency for Palestine Refugees, specifically to support Palestine refugees in its five areas of operation in Jordan, Lebanon, the Syrian Arab Republic, West Bank and the Gaza Strip. It was created as a UN agency separate from UNHCR as the number of Palestinian refugees after WWII was so large, which is now 5 around 5 million people. UNHCR supports refugees in all other areas, including Palestinian refugees in countries other than those states/areas noted above. Know more about UNRWA at https://www.unrwa.org/.",
+      "alt": {
+        "markdown": "In 1949, the UN General Assembly established UNRWA, United Nations Relief and Works Agency for Palestine Refugees, specifically to support Palestine refugees in its five areas of operation in Jordan, Lebanon, the Syrian Arab Republic, West Bank and the Gaza Strip. It was created as a UN agency separate from UNHCR as the number of Palestinian refugees after WWII was so large, which is now 5 around 5 million people. UNHCR supports refugees in all other areas, including Palestinian refugees in countries other than those states/areas noted above. Know more about UNRWA at <a href=\"https://www.unrwa.org/\">here</a>."
+      },
+      "qid": "un-25",
+      "type": "qna",
+      "q": [
+        "What is UNRWA?"
+      ]
+    },
+    {
+      "a": "UNHCR is the United Nations High Commissioner for Refugees - the UN Refugee Agency. UNICEF is the United Nations International Children's Emergency Fund. UNICEF’s mandate is to advocate for the protection of children's rights, to help meet their basic needs and to expand their opportunities to reach their full potential.\n\nUNHCR is a separate organization with a unique mission. UNHCR was founded in 1950, to assist refugees in the aftermath of WWII. Ever since, the UN Refugee Agency has been called to serve the world’s most vulnerable people, including refugees, internally displaced persons, stateless people.",
+      "qid": "un-6",
+      "type": "qna",
+      "q": [
+        "What is the difference between UNICEF and UNHCR?"
+      ]
+    },
+    {
+      "a": "A refugee camp is intended as a temporary accommodation for people who have been forced to feel their home because of violence and persecution. Camps are constructed while crises unfold for people fleeing their lives. Learn more about refugee camps at https://www.unrefugees.org/refugee-facts/camps/.",
+      "alt": {
+        "markdown": "A refugee camp is intended as a temporary accommodation for people who have been forced to feel their home because of violence and persecution. Camps are constructed while crises unfold for people fleeing their lives. Learn more about refugee camps <a href=\"https://www.unrefugees.org/refugee-facts/camps/\">here</a>."
+      },
+      "qid": "un-14",
+      "type": "qna",
+      "q": [
+        "What is a refugee camp?"
+      ]
+    },
+    {
+      "a": "You can learn more about refugees in our https://www.unrefugees.org/refugee-facts/ page.",
+      "alt": {
+        "markdown": "You can learn more about refugees in our <a href=\"https://www.unrefugees.org/refugee-facts/\">Refugee Facts page.</a>"
+      },
+      "qid": "un-15",
+      "type": "qna",
+      "q": [
+        "Where can I know more about Refugees?"
+      ]
+    },
+    {
+      "a": "We do not have the expertise or facilities to provide legal advice. For specific information regarding protection within America please contact the UNHCR regional office or call 202-296-5191. We sincerely apologize that we are unable to assist you with your inquiry, and for any inconvenience this has caused.",
+      "qid": "un-56",
+      "type": "qna",
+      "q": [
+        "Who do I call to be resettled?"
+      ]
+    },
+    {
+      "a": "Yes, you will receive a receipt by email if you give online, all other gifts will receive a receipt by mail. If\nyou cannot locate your receipt, please contact our Donor Care team at info@usaforunhcr.org or call\n1-855-808-6427, and we would be happy to send you a replacement receipt.",
+      "qid": "un-34",
+      "type": "qna",
+      "q": [
+        "Can I get a tax receipt from my donation?"
+      ]
+    },
+    {
+      "a": "Yes. USA for UNHCR is recognized by the Internal Revenue Service as a charity under section 501 (c) (3)\nof the tax code. All donations are tax-deductible to the extent allowed by law.",
+      "qid": "un-33",
+      "type": "qna",
+      "q": [
+        "Are my donations tax-deductible?"
+      ]
+    },
+    {
+      "a": "Goodwill Ambassadors are recognizable individuals who care deeply about our mission. They volunteer their time and their voices to share our work with the world!",
+      "qid": "un-7",
+      "type": "qna",
+      "q": [
+        "What is a Goodwill Ambassador?"
+      ]
+    },
+    {
+      "a": "Please email partner@usaforunhcr.org for collaboration opportunities or contact us at (202) 644-7170.",
+      "qid": "un-40",
+      "type": "qna",
+      "q": [
+        "How can my company collaborate with USA for UNHCR?"
+      ]
+    },
+    {
+      "a": "Please contact our Donor Care team at info@usaforunhcr.org, or 1-855-808-6427, and we would be happy to provide any information to setup a workplace gift, or matching gift through your employer.",
+      "qid": "un-51",
+      "type": "qna",
+      "q": [
+        "How can I give a gift through my employer?"
+      ]
+    },
+    {
+      "a": "Please contact our Donor Care team at 1-855-808-6427, where we would be happy to update your payment information.",
+      "qid": "un-48",
+      "type": "qna",
+      "q": [
+        "How do I change my credit card details for my monthly donation?"
+      ]
+    },
+    {
+      "a": "Please visit our page https://www.unrefugees.org/how-to-help/planned-giving/ for more information on other ways to give.",
+      "alt": {
+        "markdown": "Please visit our page <a href=\"https://www.unrefugees.org/how-to-help/planned-giving/\">planned giving page</a> for more information on other ways to give."
+      },
+      "qid": "un-35",
+      "type": "qna",
+      "q": [
+        "What are other ways to give?"
+      ]
+    },
+    {
+      "a": "Thank you for your interest in volunteering with refugees. We sincerely appreciate your kind support. All volunteer efforts with the UN Refugee Agency are coordinated through the United Nations Volunteer Program. Their website is located at www.unv.org. If you would like to learn about additional opportunities for assisting refugees forced to flee war, persecution and violence please visit our “How To Help” webpage. There are many ways you can help, including holding a community event or fundraising for USA for UNHCR. Please go to https://docs.google.com/forms/d/e/1FAIpQLSewHXJ-FG-_qhXHnK-qquVcYFh576TCZD9OfBDTo88g9rWxOw/viewform?c=0&w=1 to complete the form and learn more about fundraising events, and to download our fundraising toolkit.",
+      "alt": {
+        "markdown": "Thank you for your interest in volunteering with refugees. We sincerely appreciate your kind support. All volunteer efforts with the UN Refugee Agency are coordinated through the United Nations Volunteer Program. Their website is located at www.unv.org. If you would like to learn about additional opportunities for assisting refugees forced to flee war, persecution and violence please visit our “How To Help” webpage. There are many ways you can help, including holding a community event or fundraising for USA for UNHCR. Please click <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSewHXJ-FG-_qhXHnK-qquVcYFh576TCZD9OfBDTo88g9rWxOw/viewform?c=0&w=1\">here</a> to complete the form and learn more about fundraising events, and to download our fundraising toolkit."
+      },
+      "qid": "un-46",
+      "type": "qna",
+      "q": [
+        "How can I volunteer?"
+      ]
+    },
+    {
+      "a": "USA for UNHCR does not directly sell or exchange mailing information with other organizations. Additionally, and on your request, we can ensure that your name is never shared with any third party.",
+      "qid": "un-45",
+      "type": "qna",
+      "q": [
+        "What is USA for UNHCR’s mail policy?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Hi, it's nice to meet you! How can I help you today?",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "intro-1",
+      "type": "qna",
+      "selected": false,
+      "q": [
+        "Hi",
+        "Hi there",
+        "What is this?",
+        "How are you?",
+        "Hello",
+        "What's up?"
+      ]
+    },
+    {
+      "a": "Please contact our donor services team at 1-855-808-6427 or emailing info@usaforunhcr.org and we\nwould be happy to update your preferences, cancel your monthly donations or make any changes that\nyou need!",
+      "qid": "un-39",
+      "type": "qna",
+      "q": [
+        "How can I make a change to my monthly payment (including canceling)?"
+      ]
+    }
+  ]
+}
